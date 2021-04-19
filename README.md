@@ -2,7 +2,7 @@
 
 Compilation of all the tasks I did during my tenure as an Intern in Sparks Foundation
 
-![image](C:\Users\Lenovo\OneDrive\Pictures\New folder)
+![image](https://github.com/azaruddinaskarali/Sparks-Foundation-Intern/blob/main/the-sparks-foundation-squarelogo-1556515236044.png)
 
 
 # Task-1 Prediction using Supervised Machine Learning
