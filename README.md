@@ -1,5 +1,8 @@
 # Sparks-Foundation-Intern
-Compilation of all the tasks I did during my tenure as an intern in Sparks Foundation
+
+Compilation of all the tasks I did during my tenure as an Intern in Sparks Foundation
+
+![image](C:\Users\Lenovo\OneDrive\Pictures\New folder)
 
 
 # Task-1 Prediction using Supervised Machine Learning
