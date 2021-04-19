@@ -13,4 +13,4 @@ This is a simple linear regression task involving just two variables.
 
 # Task-7 Stock Market Prediction using Numerical and Textual Analysis
 
-In this task I have created a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
+In this task I have created a hybrid model for stock price/performance prediction using numerical analysis of historical Stock prices, and Sentimental analysis of news headlines.
